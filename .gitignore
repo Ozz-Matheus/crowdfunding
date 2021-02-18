@@ -1,0 +1,16 @@
+**/.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+/node_modules
+/db-backup
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
